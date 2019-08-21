@@ -78,6 +78,7 @@ function checkScore() {
         
     }
 }
+}
     
 function shootNew() {
     //Her skal vi sørge for at en ny appelsin skydes afsted 
@@ -99,6 +100,7 @@ function mousePressed(){
 
 
 }
+
 
 
 /*
